@@ -18,5 +18,3 @@ Problem: When you enter a charcters page and refresh the data dissapears.
 
 live version of the game.
 [https://famous-griffin-c87240.netlify.app/](https://cosmic-madeleine-0f596a.netlify.app)
-
-Credit to https://www.youtube.com/c/TraversyMedia for the tutorial.
